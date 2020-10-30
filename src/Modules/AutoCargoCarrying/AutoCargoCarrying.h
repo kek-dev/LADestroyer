@@ -1,0 +1,9 @@
+#ifndef Destroyer_SRC_MODULES_AUTOCARGOCARRYING_AUTOCARGOCARRYING_H_
+#define Destroyer_SRC_MODULES_AUTOCARGOCARRYING_AUTOCARGOCARRYING_H_
+
+namespace auto_cargo_carrying
+{
+    void Activate();
+}
+
+#endif //Destroyer_SRC_MODULES_AUTOCARGOCARRYING_AUTOCARGOCARRYING_H_
