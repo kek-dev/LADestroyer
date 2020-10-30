@@ -1,4 +1,4 @@
-# la-destroyer
+# LA Destroyer
 
 Reverse engineering and C++ educational project (game hack)
 All strings and addresses were spoofed for security reasons
