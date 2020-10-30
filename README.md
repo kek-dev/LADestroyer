@@ -1,7 +1,6 @@
 # LA Destroyer
 
-Reverse engineering and C++ educational project (game hack)
-All strings and addresses were spoofed for security reasons
+Reverse engineering and C++ educational project (game hack). All strings and addresses were spoofed for security reasons
 
 ## Example of achieved results:
   * Camera modification https://youtu.be/eX4KenDKxlg
